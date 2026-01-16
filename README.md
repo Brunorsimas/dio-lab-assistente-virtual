@@ -4,7 +4,7 @@
 
 ## 💡 O Que é o POFI?
 
-O POFI é um POFIcador financeiro que **ensina**, não recomenda. Ele explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
+O POFI é um assistente financeiro que orienta como economizar sem precisar investir. Ele explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
 
 **O que o POFI faz:**
 - ✅ Explica conceitos financeiros de forma simples
