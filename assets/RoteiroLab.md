@@ -1,7 +1,7 @@
 # 🎬 Vídeo 1: Introdução ao Desafio
 
 ```
-Fala, pessoal! Eu sou o Venilton, Tech Lead no time de Educação da DIO, e hoje vou apresentar pra vocês um desafio muito especial: criar um Agente Financeiro Inteligente usando IA Generativa.
+Fala, pessoal! Eu sou o Venilton, Tech Lead no time de Ensino da DIO, e hoje vou apresentar pra vocês um desafio muito especial: criar um Agente Financeiro Inteligente usando IA Generativa.
 
 Antes de entrar nos detalhes, deixa eu contextualizar.
 Os assistentes virtuais no setor financeiro estão mudando. Eles estão deixando de ser aqueles chatbots básicos que só respondem perguntas prontas e estão se tornando agentes inteligentes e proativos.
